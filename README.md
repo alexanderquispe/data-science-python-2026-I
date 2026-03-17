@@ -25,3 +25,7 @@ This is a course in data science with Python at UP.
 2. SMP
 3. Callao
 4. San Isidro
+
+# Football Teams
+1. Alianza Lima
+2. Sport Boys
